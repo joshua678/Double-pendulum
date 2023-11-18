@@ -1,2 +1,2 @@
 # Double-pendulum
-this is a multithreaded double pendulum simulation that can easily run thousands of double pendulums at high framerates
+There are no GUI controls, if you want more pendulums or a higher simulation iteration count ect then you can easily modify the code
